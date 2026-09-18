@@ -37,6 +37,8 @@
 4.  **永夜暗影深渊套 & 永夜深渊魔典（未测试版）**：提供创造飞行、极端护盾与变态级魔力减免，数值超模，谨慎使用。
 5.  **配套魔导手册研究**：暗影套与暗影刀下方新增禁忌研究，解锁会获得扭曲值。
 
+污秽魔法1.7.10魔改分支，基于GTNH源码。前置：神秘时代4、拔刀剑。新增黄金暗影套、黄金要塞之刃(超级削弱+反胃III)、原始妖刃、永夜套及配套研究。有Bug或漏洞欢迎提Issue，或联系QQ/邮箱：2897626982。
+
 ---
 
 ## English Description
@@ -63,3 +65,5 @@ This is an extension of the hard work by **John Yorke** and the **GTNH Team**. W
 ### ⚠️ Notes
 *   This branch contains heavily modded and potentially unbalanced content (e.g., "Golden" and "Eternal Night" sets).
 *   Do NOT install this alongside the original Tainted Magic mod.
+
+Tainted Magic GTNH fork. Requires TC4 & SlashBlade. Adds Golden Shadow set, Katana, Eternal Night set. Report bugs via Issues or QQ/Email: 2897626982.
