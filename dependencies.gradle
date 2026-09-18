@@ -34,5 +34,15 @@
  * For more details, see https://docs.gradle.org/8.0.1/userguide/java_library_plugin.html#sec:java_library_configurations_graph
  */
 dependencies {
-    //runtimeOnlyNonPublishable("com.github.GTNewHorizons:NotEnoughItems:2.7.69-GTNH:dev")
+    // 神秘时代本体 (deobf 版本)
+    compile files('libs/Thaumcraft-deobf-1.7.10-4.2.3.5.jar')
+    
+
+    compile files('libs/Baubles-deobf-1.7.10-1.0.1.10.jar')
+
+    compile files('libs/SlashBlade-mc1.7.10-r87-deobf.jar')
+
+    
+    // 如果你需要 NEI（可选），可以保留下面这行
+    // runtimeOnlyNonPublishable("com.github.GTNewHorizons:NotEnoughItems:2.7.69-GTNH:dev")
 }

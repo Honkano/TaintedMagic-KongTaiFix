@@ -1,9 +1,9 @@
 {
 	"modListVersion": 2,
 	"modList": [{
-		"modid": "${modId}",
-		"name": "${modName}",
-		"description": "An example mod for Minecraft 1.7.10 with Forge focused on a stable setup.",
+		"modid": "taintedmagic",
+		"name": "Tainted Magic",
+		"description": "Tainted Magic is an addon to Thaumcraft 4 which focuses on the dark side of Thaumaturgy, adding tainted and eldritch content.",
 		"version": "${modVersion}",
 		"mcversion": "${minecraftVersion}",
 		"url": "https://github.com/SinTh0r4s/MyMod",

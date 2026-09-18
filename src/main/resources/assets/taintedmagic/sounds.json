@@ -1,0 +1,18 @@
+{
+    "shockwave": {
+        "category": "master",
+        "sounds": [{"name": "shockwave", "stream": false}]
+    },
+    "shard": {
+        "category": "master",
+        "sounds": [{"name": "shard", "stream": false}]
+    },
+    "primal_swing": {
+        "category": "player",
+        "sounds": [{"name": "primal_swing", "stream": false}]
+    },
+    "primal_charge": {
+        "category": "player",
+        "sounds": [{"name": "primal_charge", "stream": false}]
+    }
+}
